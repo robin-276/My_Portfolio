@@ -760,8 +760,7 @@ function App() {
               <div className="bento-card">
                 <h3 className="animated-gradient-text">Professional Experience</h3>
                 <div className="inner-grid" style={{ gridTemplateColumns: '1fr' }}>
-                  
-                  // cosysta ...
+                
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
                     <span className="highlight">Traine (1/8/2026 - Present)</span>
                     <h4>Cosysta Traine </h4>
@@ -780,8 +779,6 @@ function App() {
                     </div>
                   </div>
 
-                  // edxera ...
-
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
                     <span className="highlight">Internship | 2 Month (1/6/2026 - 1/8/2026)</span>
                     <h4>AI / ML & Django Intern</h4>
@@ -799,8 +796,6 @@ function App() {
                       </a>
                     </div>
                   </div>
-
-                  // sinro robotics ....
 
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
                     <span className="highlight">Internship | 8 Days (23/7/2025 - 1/8/2025)</span>
