@@ -1017,7 +1017,7 @@ function App() {
                       <div className="project-preview">I<img src="/search_box.webp" alt="SearchBOX" /></div>
                       <div className="project-content">
                         <span className="highlight">Next.js, React, TypeScript, Supabase, Tailwind CSS</span>
-                        <h4>Gym Tracking Web App</h4>
+                        <h4>SearchBOX</h4>
                         <p>A personal resource management platform that helps users save, organize, and instantly search websites, YouTube videos, Google Drive files, GitHub repositories, documents, and notes. Features smart categories, hashtags, duplicate detection, favorites, automatic favicon fetching, and Google/Email authentication.</p>
                         <div className="proj-links">
                           <a href="https://searchbox-001.vercel.app/" target="_blank" rel="noopener noreferrer" className="proj-btn">
