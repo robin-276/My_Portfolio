@@ -977,6 +977,74 @@ function App() {
                     </div>
                   </div>
 
+                  {/* Project 11 - Left (NEW: Gym Tracking Web App) */}
+                  <div className="timeline-item left">
+                    <div className="timeline-card">
+                      <div className="project-preview">I<img src="/gym_tracking_web.webp" alt="Gym Tracking Web App" /></div>
+                      <div className="project-content">
+                        <span className="highlight">Next.js, Supabase, TypeScript, Tailwind CSS</span>
+                        <h4>Gym Tracking Web App</h4>
+                        <p>A full-stack fitness tracking web application that enables users to log workouts, monitor their progress, and organize fitness routines through a clean, responsive dashboard. Built with secure authentication, real-time database integration, and deployed on Vercel.</p>
+                        <div className="proj-links">
+                          <a href="#" target="_blank" rel="noopener noreferrer" className="proj-btn">
+                            <LinkIcon /> View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Project 12 - Right */}
+                  <div className="timeline-item right">
+                    <div className="timeline-card">
+                      <div className="project-preview"><img src="/gym_tracking_apk.webp" alt="Gym Tracking Android App" /></div>
+                      <div className="project-content">
+                        <span className="highlight">Flutter, Dart, Supabase</span>
+                        <h4>Gym Tracking Android App</h4>
+                        <p>A cross-platform Android application designed for tracking workouts and fitness progress. Features secure authentication, cloud-based data synchronization with Supabase, and an intuitive mobile-first interface for managing daily training sessions. </p>
+                        <div className="proj-links">
+                          <a href="#" target="_blank" rel="noopener noreferrer" className="proj-btn">
+                            <LinkIcon /> View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Project 13 - Left (SearchBOX) */}
+                  <div className="timeline-item left">
+                    <div className="timeline-card">
+                      <div className="project-preview">I<img src="/search_box.webp" alt="SearchBOX" /></div>
+                      <div className="project-content">
+                        <span className="highlight">Next.js, React, TypeScript, Supabase, Tailwind CSS</span>
+                        <h4>Gym Tracking Web App</h4>
+                        <p>A personal resource management platform that helps users save, organize, and instantly search websites, YouTube videos, Google Drive files, GitHub repositories, documents, and notes. Features smart categories, hashtags, duplicate detection, favorites, automatic favicon fetching, and Google/Email authentication.</p>
+                        <div className="proj-links">
+                          <a href="https://searchbox-001.vercel.app/" target="_blank" rel="noopener noreferrer" className="proj-btn">
+                            <LinkIcon /> View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Project 14 - Right */}
+                  <div className="timeline-item right">
+                    <div className="timeline-card">
+                      <div className="project-preview"><img src="/benchy.webp" alt="Gym Tracking Android App" /></div>
+                      <div className="project-content">
+                        <span className="highlight">Next.js, React, Tailwind CSS</span>
+                        <h4>Company project</h4>
+                        <p>Developed a modern, responsive corporate website during my trainee role, focusing on performance, accessibility, and user experience. Built with Next.js to deliver a fast, SEO-friendly web presence while collaborating on a real-world client project. </p>
+                        <div className="proj-links">
+                          <a href="#" target="_blank" rel="noopener noreferrer" className="proj-btn">
+                            <LinkIcon /> View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
                 </div>
               </div>
 
