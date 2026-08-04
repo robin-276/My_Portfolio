@@ -647,7 +647,7 @@ function App() {
 
             <div ref={imageGroupRef} className="parallax-item" style={{ position: 'absolute', top: '50%', right: '12%', transform: `translateY(-50%) translateX(0px)` }}>
               <div className="animate-entrance from-right slow-image-entrance">
-                <img className="hover-image" src="/profile_1.jpeg" alt="Robin Jose" style={{ width: '320px', height: '400px', objectFit: 'cover', borderRadius: '30px', border: '3px solid #FF00AA', boxShadow: '0px 0px 35px 10px rgba(255, 0, 170, 0.5)' }} />
+                <img className="hover-image" src="/profile_1.webp" alt="Robin Jose" style={{ width: '320px', height: '400px', objectFit: 'cover', borderRadius: '30px', border: '3px solid #FF00AA', boxShadow: '0px 0px 35px 10px rgba(255, 0, 170, 0.5)' }} />
               </div>
             </div>
 
@@ -810,7 +810,7 @@ function App() {
                   {/* Project 1 - Left */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/Wafer_defect.jpg" alt="Wafer Defect Classn" /></div>
+                      <div className="project-preview"><img src="/Wafer_defect.webp" alt="Wafer Defect Classn" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Machine Learning</span>
                         <h4>Wafer Defect Classification</h4>
@@ -827,7 +827,7 @@ function App() {
                   {/* Project 2 - Right */}
                   <div className="timeline-item right">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/NLP.jpg" alt="Fake News Detection" /></div>
+                      <div className="project-preview"><img src="/NLP.webp" alt="Fake News Detection" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, NLP</span>
                         <h4>Fake News Detection</h4>
@@ -844,7 +844,7 @@ function App() {
                   {/* Project 3 - Left */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/auto_hub.jpg" alt="Auto Hub " /></div>
+                      <div className="project-preview"><img src="/auto_hub.webp" alt="Auto Hub " /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Django</span>
                         <h4>Auto Hub Booking Platform</h4>
@@ -861,7 +861,7 @@ function App() {
                   {/* Project 4 - Right */}
                   <div className="timeline-item right">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/College_Magazine.jpg" alt="College Magazine CMS" /></div>
+                      <div className="project-preview"><img src="/College_Magazine.webp" alt="College Magazine CMS" /></div>
                       <div className="project-content">
                         <span className="highlight">PHP, MySQL, HTML</span>
                         <h4>College Magazine CMS</h4>
@@ -878,7 +878,7 @@ function App() {
                   {/* Project 5 - Left */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/stud_manag.jpg" alt="Student Management Portal" /></div>
+                      <div className="project-preview"><img src="/stud_manag.webp" alt="Student Management Portal" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Django</span>
                         <h4>Student Management Portal</h4>
@@ -895,7 +895,7 @@ function App() {
                   {/* Project 6 - Right */}
                   <div className="timeline-item right">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/Hr_manag.jpg" alt="HR Management Portal" /></div>
+                      <div className="project-preview"><img src="/Hr_manag.webp" alt="HR Management Portal" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Django</span>
                         <h4>HR Management Portal</h4>
@@ -912,7 +912,7 @@ function App() {
                   {/* Project 7 - Left */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/gst.jpg" alt="GST Calculator" /></div>
+                      <div className="project-preview"><img src="/gst.webp" alt="GST Calculator" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Django</span>
                         <h4>GST Calculator</h4>
@@ -929,7 +929,7 @@ function App() {
                   {/* Project 8 - Right */}
                   <div className="timeline-item right">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/portfolio.png" alt="3D Interactive Portfolio" /></div>
+                      <div className="project-preview"><img src="/portfolio.webp" alt="3D Interactive Portfolio" /></div>
                       <div className="project-content">
                         <span className="highlight">React, Three.js</span>
                         <h4>3D Interactive Portfolio</h4>
@@ -946,7 +946,7 @@ function App() {
                   {/* Project 9 - Left (NEW: IoT Predictive Maintenance) */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview">I<img src="/IOT_Machin_defect.png" alt="IoT Predictive Maintenance" /></div>
+                      <div className="project-preview">I<img src="/IOT_Machin_defect.webp" alt="IoT Predictive Maintenance" /></div>
                       <div className="project-content">
                         <span className="highlight">ML, Python, Django</span>
                         <h4>IoT Predictive Maintenance</h4>
@@ -963,7 +963,7 @@ function App() {
                   {/* Project 10 - Right */}
                   <div className="timeline-item right">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/Moonshot.jpg.png" alt="Flappy Doge Game" /></div>
+                      <div className="project-preview"><img src="/Moonshot.jpg.webp" alt="Flappy Doge Game" /></div>
                       <div className="project-content">
                         <span className="highlight">HTML5, CSS3, JS, PHP, PostgreSQL</span>
                         <h4>Flappy Doge Game</h4>
