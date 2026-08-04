@@ -878,7 +878,7 @@ function App() {
                   {/* Project 5 - Left */}
                   <div className="timeline-item left">
                     <div className="timeline-card">
-                      <div className="project-preview"><img src="/stud_manag.webp" alt="Student Management Portal" /></div>
+                      <div className="project-preview"><img src="stud_manag.webp" alt="Student Management Portal" /></div>
                       <div className="project-content">
                         <span className="highlight">Python, Django</span>
                         <h4>Student Management Portal</h4>
