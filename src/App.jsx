@@ -762,8 +762,8 @@ function App() {
                 <div className="inner-grid" style={{ gridTemplateColumns: '1fr' }}>
                 
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
-                    <span className="highlight">Traine (1/8/2026 - Present)</span>
-                    <h4>Cosysta Traine </h4>
+                    <span className="highlight">Trainee (1/8/2026 - Present)</span>
+                    <h4>Cosysta Trainee </h4>
                     <p style={{ color: '#FF00AA', marginBottom: '10px', fontWeight: 'bold' }}>
                       <a href="https://cosysta.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>EDXERA, Kaloor, Kochi, Kerala</a>
                     </p>
