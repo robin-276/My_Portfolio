@@ -761,8 +761,29 @@ function App() {
                 <h3 className="animated-gradient-text">Professional Experience</h3>
                 <div className="inner-grid" style={{ gridTemplateColumns: '1fr' }}>
                   
+                  // cosysta ...
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
-                    <span className="highlight">Internship | 1 Month (1/6/2026 - 1/7/2026)</span>
+                    <span className="highlight">Traine (1/8/2026 - Present)</span>
+                    <h4>Cosysta Traine </h4>
+                    <p style={{ color: '#FF00AA', marginBottom: '10px', fontWeight: 'bold' }}>
+                      <a href="https://cosysta.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>EDXERA, Kaloor, Kochi, Kerala</a>
+                    </p>
+                    <ul style={{ color: '#e0e0e0', margin: 0, paddingLeft: '20px', lineHeight: '1.6' }}>
+                      <li>Developed responsive full-stack web and mobile applications using Next.js, React, Django, Node.js, and Flutter.</li>
+                      <li>Built and integrated secure backend services with Supabase, SQL, REST APIs, and deployed applications on Vercel.</li>
+                      <li>Collaborated using Git and GitHub while following modern development practices throughout the software development lifecycle.</li>
+                    </ul>
+                    <div style={{ marginTop: '15px' }}>
+                      <a href="https://cosysta.com/" target="_blank" rel="noopener noreferrer" className="proj-btn" style={{ display: 'inline-flex', width: 'fit-content' }}>
+                        <LinkIcon /> Visit
+                      </a>
+                    </div>
+                  </div>
+
+                  // edxera ...
+
+                  <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
+                    <span className="highlight">Internship | 2 Month (1/6/2026 - 1/8/2026)</span>
                     <h4>AI / ML & Django Intern</h4>
                     <p style={{ color: '#FF00AA', marginBottom: '10px', fontWeight: 'bold' }}>
                       <a href="https://edxera.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>EDXERA, Kaloor, Kochi, Kerala</a>
@@ -778,6 +799,8 @@ function App() {
                       </a>
                     </div>
                   </div>
+
+                  // sinro robotics ....
 
                   <div className="content-box" style={{ borderLeft: '3px solid #FF00AA', borderRadius: '5px 15px 15px 5px' }}>
                     <span className="highlight">Internship | 8 Days (23/7/2025 - 1/8/2025)</span>
